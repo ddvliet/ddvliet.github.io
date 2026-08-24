@@ -18,7 +18,7 @@ In *Dulce da Rocha Gonçalves*, Nico de Klerk, Frank Kessler and Jamilla Notebaa
 ---
 
 **Public Science Lectures at Teylers Museum, Haarlem, in the Nineteenth Century: An Interview by Dulce da Rocha Gonçalves and Frank Kessler**\
-*Dulce da Rocha Gonçalves* and Frank Kessler
+*Dulce da Rocha Gonçalves* and Frank Kessler\
 In *Dulce da Rocha Gonçalves*, Nico de Klerk, Frank Kessler and Jamilla Notebaard (Eds.), *Projecting Knowledge: The Optical Lantern and Science Communication, 1880–1940*, (pp. 225-235), Brepols, 2026\
 [[Book Chapter]](https://doi.org/10.1484/M.TECHNE.5.152266)
 
