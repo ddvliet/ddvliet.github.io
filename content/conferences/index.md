@@ -14,8 +14,8 @@ description: "Conference presentations and invited talks"
   *Historical Data Streams and Measuring Sustainability* [[Link]](https://www.historyoftechnology.org/annual-meeting/2025-shot-annual-meeting/)
 
 - **July 2025 — Lund University, World Economic History Congress 2025**\
-  *Sustainability Trade‑Offs in the Netherlands Entangled Modernization @ Re‑assessing economic history from the perspective of well‑being, inclusion, and sustainability: A global, international, and transnational lens*\
   (with Frank Veraart)\
+  *Sustainability Trade‑Offs in the Netherlands Entangled Modernization @ Re‑assessing economic history from the perspective of well‑being, inclusion, and sustainability: A global, international, and transnational lens*\
   [[Link]](https://wehc2025.com/)
   
 ## 2024
