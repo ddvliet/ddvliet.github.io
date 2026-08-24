@@ -11,7 +11,7 @@ description: "Research publications and papers"
 
 
 **Welbehagelijke Zaaltjes and Dorpscafés: Lantern lecture venues in the Netherlands after 1900**\
-*Dulce da Rocha Gonçalves* and Frank Kessler
+*Dulce da Rocha Gonçalves* and Frank Kessler\
 In *Dulce da Rocha Gonçalves*, Nico de Klerk, Frank Kessler and Jamilla Notebaard (Eds.), *Projecting Knowledge: The Optical Lantern and Science Communication, 1880–1940*, (pp. 93-112), Brepols, 2026\
 [[Book Chapter]](https://doi.org/10.1484/M.TECHNE.5.152259)
 
