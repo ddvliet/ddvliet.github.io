@@ -35,7 +35,7 @@ In Peter Heering and Roland Wittje (Eds.), *Objects of Understanding: Historical
 ### 2024
 
 **Pleasant and Instructive Evenings: The Public Lantern Lecture Phenomenon in the Netherlands ca. 1900s-1920s**  
-*Dulce da Rocha Gonçalves*, 2024\  
+*Dulce da Rocha Gonçalves*, 2024\
 [[Dissertation/Monograph]](https://doi.org/10.33540/2213)
 
 ---
@@ -44,14 +44,14 @@ In Peter Heering and Roland Wittje (Eds.), *Objects of Understanding: Historical
 
 **Public lantern lectures in the Netherlands 1880-1940: A dataset based on historical newspaper advertisements**  
 *Dulce da Rocha Gonçalves*\
-*NECSUS European Journal of Media Studies, Autumn 2023_#Cycles*, 2023\  
+*NECSUS European Journal of Media Studies, Autumn 2023_#Cycles*, 2023\
 [[Data Paper]](https://necsus-ejms.org/public-lantern-lectures-in-the-netherlands-1880-1940-a-dataset-based-on-historical-newspaper-advertisements/)
 
 ---
 
 **The Nutslezing and the lantern: Public lectures with image projection organized by the Maatschappij tot Nut van ‘t Algemeen in the first decades of the 20th century**  
 *Dulce da Rocha Gonçalves*\
-*TMG Journal for Media History, 26 (The Educational Dispositif)*:1 – 29, 2023\  
+*TMG Journal for Media History, 26 (The Educational Dispositif)*: 1 – 29, 2023\
 [[Article]](https://tmgonline.nl/articles/10.18146/tmg.828)
 
 ---
@@ -67,7 +67,7 @@ In Peter Heering and Roland Wittje (Eds.), *Objects of Understanding: Historical
 
 **Science between the fairground and the academy: The case of Dutch science popularizer L. K. Maju (1823–1886)**  
 *Dulce da Rocha Gonçalves*\
-*Public Understanding of Science*, 29(8), 881-891, 2020\ 
+*Public Understanding of Science*, 29(8), 881-891, 2020\
 [[Article]](https://doi.org/10.1177/0963662520965093)
 
 ---
@@ -92,7 +92,7 @@ In D. Nguyen, I. Dekker, & S. Nguyen (Eds.), *Understanding Media and Society in
 
 **Storied Statistics: Behind the Numbers of Indonesian Mecca Pilgrims (1851–2016)**  
 *Dulce van Vliet*\
-*Zenodo preprint*, 2025\  
+*Zenodo preprint*, 2025
 [[Zenodo]](https://zenodo.org/records/21515465)
 
 ---
