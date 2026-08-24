@@ -5,7 +5,19 @@ draft: false
 description: "Conference presentations and invited talks"
 ---
 
+## 2026
+- **July 2026 — TU Eindhoven, Conference Tensions of Europe**\
+  *Researching Historical Sustainability at the Municipal Scale: The case of Velsen*\
+  @ Digital Tools to Investigate New Histories of Technology & Environment @ 4TU [[Link]](https://www.eindhovenhistorylab.nl/toe-2026/)
 
+- **July 2026 — TU Eindhoven, Conference Tensions of Europe**\
+  *Assembling a historical (post)-colonial sustainability monitor for Indonesia*\
+  @ Mapping Extraction: Digital Approaches to the Material History of Empire and Industry [[Link]](https://www.eindhovenhistorylab.nl/toe-2026/)
+
+- **May 2026 — International Institute of Social History - Amsterdam, Posthumus Conference**\
+  **Nominated TSEG Essay Prize 2025**
+  *Speaking the Same Language: Re-imagining Well-being Monitors for Social and Economic (and Environmental) History* [[Link]](https://posthumusconference.org/winner-and-nominees-tseg-essay-prize-2025/)
+  
 ## 2025
 - **Oct. 2025 — RMeS Netherlands Media Studies Conference**\
   *From Media History to Sustainability and Well‑Being* [[Link]](https://www.rmes.nl/netherlands-media-studies-conference-organised-by-rmes/)
@@ -15,7 +27,8 @@ description: "Conference presentations and invited talks"
 
 - **July 2025 — Lund University, World Economic History Congress 2025**\
   (with Frank Veraart)\
-  *Sustainability Trade‑Offs in the Netherlands Entangled Modernization @ Re‑assessing economic history from the perspective of well‑being, inclusion, and sustainability: A global, international, and transnational lens* [[Link]](https://wehc2025.com/)
+  *Sustainability Trade‑Offs in the Netherlands Entangled Modernization*\
+  @ Re‑assessing economic history from the perspective of well‑being, inclusion, and sustainability: A global, international, and transnational lens [[Link]](https://wehc2025.com/)
   
 ## 2024
 - **Nov. 2024 — Scientific Instrument Commission Online Seminar 2024**\
