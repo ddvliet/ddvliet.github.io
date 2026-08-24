@@ -15,7 +15,7 @@ description: "Conference presentations and invited talks"
   @ Mapping Extraction: Digital Approaches to the Material History of Empire and Industry [[Link]](https://www.eindhovenhistorylab.nl/toe-2026/)
 
 - **May 2026 — International Institute of Social History - Amsterdam, Posthumus Conference**\
-  **Nominated TSEG Essay Prize 2025**
+  (Nominated TSEG Essay Prize 2025)\
   *Speaking the Same Language: Re-imagining Well-being Monitors for Social and Economic (and Environmental) History* [[Link]](https://posthumusconference.org/winner-and-nominees-tseg-essay-prize-2025/)
   
 ## 2025
