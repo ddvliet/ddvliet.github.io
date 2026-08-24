@@ -9,6 +9,13 @@ description: "Research publications and papers"
 
 ### 2026
 
+**Projecting Knowledge: The Optical Lantern and Science Communication, 1880–1940**  
+*Dulce da Rocha Gonçalves*, Nico de Klerk, Frank Kessler and Jamilla Notebaard (eds.)
+Brepols, 2026  
+[[Book]](https://doi.org/10.1484/M.TECHNE-EB.5.138168)
+
+---
+
 **Roots and dynamics of Dutch foreign plant-oil demands 1920–2020**  
 Frank Veraart, Maliene Kip, Janine Glas and *Dulce van Vliet*
 *Global Environment*, Volume 19, Number 1:70-93, 2026  
@@ -86,6 +93,6 @@ D. Nguyen, I. Dekker, & S. Nguyen (Eds.), *Understanding Media and Society in th
 **Storied Statistics: Behind the Numbers of Indonesian Mecca Pilgrims (1851–2016)**  
 *Dulce van Vliet*
 *Zenodo preprint*, 2025  
-[[Zenodo]](https://doi.org/10.5281/zenodo.17855510)
+[[Zenodo]](https://zenodo.org/records/21515465)
 
 ---
