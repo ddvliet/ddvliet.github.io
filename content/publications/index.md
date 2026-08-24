@@ -10,15 +10,15 @@ description: "Research publications and papers"
 ### 2026
 
 **Projecting Knowledge: The Optical Lantern and Science Communication, 1880–1940**  
-*Dulce da Rocha Gonçalves*, Nico de Klerk, Frank Kessler and Jamilla Notebaard (eds.)
-Brepols, 2026  
+**Dulce da Rocha Gonçalves**, Nico de Klerk, Frank Kessler and Jamilla Notebaard (eds.)\
+Brepols, 2026\
 [[Book]](https://doi.org/10.1484/M.TECHNE-EB.5.138168)
 
 ---
 
 **Roots and dynamics of Dutch foreign plant-oil demands 1920–2020**  
-Frank Veraart, Maliene Kip, Janine Glas and *Dulce van Vliet*
-*Global Environment*, Volume 19, Number 1:70-93, 2026  
+Frank Veraart, Maliene Kip, Janine Glas and **Dulce van Vliet**\
+*Global Environment*, Volume 19, Number 1:70-93, 2026\
 [[Article]](https://doi.org/10.3828/whpge.63881453971806)
 
 ---
